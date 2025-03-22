@@ -1,0 +1,1 @@
+Analyze the characteristics and behavior of foreign tourists using 4G services in Vietnam, along with information on Viettel's 4G data packages. Based on this, develop a model to predict the most suitable data package for each customer.
